@@ -1,0 +1,34 @@
+.container {
+  max-width: 1345px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.adventures-section {
+  padding: 50px 0 200px;
+}
+.adventures {
+}
+.adventures__title {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.adventures__list {
+  display: flex;
+}
+.adventures__list-wrapper {
+  max-width: 300px;
+}
+.adventures__list-point {
+  display: flex;
+}
+.adventures__list-inner {
+}
+.adventures__list-title {
+}
+.adventures__list-description {
+}
+.adventures__image {
+  max-width: 500px;
+  width: 100%;
+}
